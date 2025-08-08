@@ -24,7 +24,7 @@ Reliable internet
 Lots of coffee for late-night debugging
 Implementation
 Installation
-git clone https://github.com/yourusername/face_match.git
+git clone https://github.com/kevinroshann/face_match.git
 cd backend
 pip install -r requirements.txt
 Run Backend
