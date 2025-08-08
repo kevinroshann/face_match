@@ -13,3 +13,4 @@ tensorflow-io-gcs-filesystem==0.37.1
 
 tf_keras==2.19.0
 
+pinecome==7.3.0
