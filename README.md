@@ -14,10 +14,10 @@
 ## Project Description
 Face Match is a web app that detects and compares faces from images, letting you know how similar they are. Think “Shazam for faces,” but without the music… or the fame.
 
-## The Problem (that doesn't exist)
+## The Problem 
 People keep forgetting if they look like their friends, celebrities, or the barista who serves them coffee. This lack of face confirmation is a modern tragedy.
 
-## The Solution (that nobody asked for)
+## The Solution 
 We built an AI tool that compares two faces and gives a similarity score — because sometimes, you just *need* to know if you and Ryan Reynolds are basically twins.
 
 ## Technical Details
